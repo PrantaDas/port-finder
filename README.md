@@ -25,7 +25,7 @@ A fast and efficient **Port Finder** built with Go to identify open ports on a h
 1. Clone the repository:
    ```bash
    git clone git@github.com:PrantaDas/port-finder.git
-   cd port-scanner
+   cd port-finder
    ```
 2. Initialize go modules
    ```bash
